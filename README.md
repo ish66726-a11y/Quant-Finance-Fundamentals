@@ -4,7 +4,7 @@
 
 ## 目次
 
-1. [01 株式市場](notebooks/01株式.ipynb)
+1. [01 株式](notebooks/01株式.ipynb)
 2. [02 債券](notebooks/02債券.ipynb)
 3. [03 ポートフォリオ理論](notebooks/03ポートフォリオ理論.ipynb)
 4. [04 CAPM](notebooks/04CAPM資本資産評価モデル.ipynb)
