@@ -10,7 +10,7 @@
 4. [04 CAPM (Capital Asset Pricing Model) 資本資産評価モデル](notebooks/04CAPM資本資産評価モデル.ipynb)
 5. [05 デリバティブ](notebooks/05デリバティブ.ipynb)
 6. [06 ランダム性の取り扱い](notebooks/06ランダム性の取り扱い.ipynb)
-7. [07 ブラックショールズモデル](notebooks/07ブラックショールズモデル.ipynb)
+7. [07 Black–Scholesモデル](notebooks/07ブラックショールズモデル.ipynb)
 8. [08 VaR (Value at Risk)](notebooks/08VaR.ipynb)
 9. [09 CDOs (Collateralized Debt Obligations)](notebooks/09CDOs.ipynb)
 10. [10 Vasicekモデル](notebooks/10Vasicekモデル.ipynb)
