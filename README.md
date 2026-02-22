@@ -15,3 +15,9 @@
 9. [09 CDOs (Collateralized Debt Obligations)](notebooks/09CDOs.ipynb)
 10. [10 Vasicekモデル](notebooks/10Vasicekモデル.ipynb)
 11. [11 長期投資](notebooks/11長期投資.ipynb)
+
+## 参考教材
+
+- Udemy: Quantitative Finance & Algorithmic Trading in Python（Holczer Balazs）
+  → 本リポジトリの全体構成は本講座に基づく。
+   
