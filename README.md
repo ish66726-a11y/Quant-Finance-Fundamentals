@@ -35,3 +35,7 @@
 
 - 伏屋広隆『ブラック・ショールズモデル超入門』（森北出版）
   → 第6章（ランダム性の数理）、第7章（Black-Scholesモデル）に参照
+
+- 「確率微分方程式入門」講義資料（PDF）
+  https://yuima.movabletype.io/past/.assets/koike_slide2.pdf
+  → 第10章（Vasicekモデル）に参照
