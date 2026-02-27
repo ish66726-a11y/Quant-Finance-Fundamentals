@@ -1,9 +1,5 @@
 # 金融工学ノート
 
-## Efficient Frontier & CAL アニメーション
-
-![Efficient Frontier & CAL](./efficient_frontier_cal.gif)
-
 このリポジトリには、Google Colab で作成した金融工学のノート（.ipynb）をまとめている。
 
 ## 目次
