@@ -31,10 +31,10 @@
   → 05デリバティブ に参照
 
 - 石村貞夫・石村園子『金融・証券のためのブラック・ショールズ微分方程式』（東京図書）
-  → 06ランダム性の数理）、07Black-Scholesモデル に参照
+  → 06ランダム性の数理、07Black-Scholesモデル に参照
 
 - 伏屋広隆『ブラック・ショールズモデル超入門』（森北出版）
-  → 06ランダム性の数理）、07Black-Scholesモデル に参照
+  → 06ランダム性の数理、07Black-Scholesモデル に参照
 
 - 「確率微分方程式入門」講義資料（PDF）
   https://yuima.movabletype.io/past/.assets/koike_slide2.pdf
